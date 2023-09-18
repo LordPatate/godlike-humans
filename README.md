@@ -1,3 +1,9 @@
+### Updates
+
+- English version available [here](/English.md)!
+
+## French version (original) | Version française (originale)
+
 Ceci est une fiction.
 
 Imaginons que l'humanité arrive à se mettre d'accord.
@@ -9,7 +15,7 @@ Grâce aux avancées techniques et aux efforts de tous, la catastrophe écologiq
 Presque tout devient désormais possible. Ce qui amène assez vite à se poser la question : que faire ensuite ?
 
 Une fois les problèmes évidents réglés (la précarité, la biodiversité, le réchauffement climatique, le cancer...),
- l'humanité arrive au stade ou son existence n'est plus menacée. Du tout.
+ l'humanité arrive au stade où son existence n'est plus menacée. Du tout.
 Il n'y a plus de danger, la vie peut paisiblement... continuer.
 
 Et ensuite ?
